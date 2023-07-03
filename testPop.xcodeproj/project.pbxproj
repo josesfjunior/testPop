@@ -11,6 +11,10 @@
 		15EDCEEA2A4DC81000A69833 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDCEE92A4DC81000A69833 /* ContentView.swift */; };
 		15EDCEEC2A4DC81200A69833 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15EDCEEB2A4DC81200A69833 /* Assets.xcassets */; };
 		15EDCEF02A4DC81200A69833 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15EDCEEF2A4DC81200A69833 /* Preview Assets.xcassets */; };
+		15EDCEFE2A4DE10400A69833 /* PopModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDCEFD2A4DE10400A69833 /* PopModel.swift */; };
+		15EDCF002A4DE1B300A69833 /* pop.json in Resources */ = {isa = PBXBuildFile; fileRef = 15EDCEFF2A4DE1B300A69833 /* pop.json */; };
+		15EDCF022A4DE5C000A69833 /* PopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDCF012A4DE5C000A69833 /* PopView.swift */; };
+		15EDCF042A4DE82900A69833 /* PopDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDCF032A4DE82900A69833 /* PopDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +24,10 @@
 		15EDCEEB2A4DC81200A69833 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15EDCEED2A4DC81200A69833 /* testPop.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = testPop.entitlements; sourceTree = "<group>"; };
 		15EDCEEF2A4DC81200A69833 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		15EDCEFD2A4DE10400A69833 /* PopModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopModel.swift; sourceTree = "<group>"; };
+		15EDCEFF2A4DE1B300A69833 /* pop.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pop.json; sourceTree = "<group>"; };
+		15EDCF012A4DE5C000A69833 /* PopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopView.swift; sourceTree = "<group>"; };
+		15EDCF032A4DE82900A69833 /* PopDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				15EDCEE72A4DC81000A69833 /* testPopApp.swift */,
+				15EDCF012A4DE5C000A69833 /* PopView.swift */,
+				15EDCEFD2A4DE10400A69833 /* PopModel.swift */,
+				15EDCF032A4DE82900A69833 /* PopDetail.swift */,
 				15EDCEE92A4DC81000A69833 /* ContentView.swift */,
 				15EDCEEB2A4DC81200A69833 /* Assets.xcassets */,
 				15EDCEED2A4DC81200A69833 /* testPop.entitlements */,
@@ -64,6 +75,7 @@
 		15EDCEEE2A4DC81200A69833 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				15EDCEFF2A4DE1B300A69833 /* pop.json */,
 				15EDCEEF2A4DC81200A69833 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -129,6 +141,7 @@
 			files = (
 				15EDCEF02A4DC81200A69833 /* Preview Assets.xcassets in Resources */,
 				15EDCEEC2A4DC81200A69833 /* Assets.xcassets in Resources */,
+				15EDCF002A4DE1B300A69833 /* pop.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +154,9 @@
 			files = (
 				15EDCEEA2A4DC81000A69833 /* ContentView.swift in Sources */,
 				15EDCEE82A4DC81000A69833 /* testPopApp.swift in Sources */,
+				15EDCF022A4DE5C000A69833 /* PopView.swift in Sources */,
+				15EDCF042A4DE82900A69833 /* PopDetail.swift in Sources */,
+				15EDCEFE2A4DE10400A69833 /* PopModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

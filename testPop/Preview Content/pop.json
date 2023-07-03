@@ -1,0 +1,139 @@
+[
+  {
+    "nome": "Recebimento de Materiais",
+    "descricao": "Procedimento para recebimento de materiais",
+    "responsavel": "João Silva",
+    "setor": "Logística",
+    "etapas": [
+      "Verificar a nota fiscal",
+      "Conferir a quantidade e qualidade dos materiais",
+      "Registrar as informações no sistema",
+      "Armazenar os materiais no estoque"
+    ],
+    "sf_symbol": "folder"
+  },
+  {
+    "nome": "Limpeza de Equipamentos",
+    "descricao": "Procedimento para limpeza de equipamentos",
+    "responsavel": "Maria Santos",
+    "setor": "Manutenção",
+    "etapas": [
+      "Desligar o equipamento",
+      "Remover poeira e sujeira com pano seco",
+      "Utilizar produtos de limpeza adequados",
+      "Secar completamente o equipamento antes de ligar novamente"
+    ],
+    "sf_symbol": "wrench.and.screwdriver"
+  },
+  {
+    "nome": "Atendimento ao Cliente",
+    "descricao": "Procedimento para atendimento ao cliente",
+    "responsavel": "Ana Oliveira",
+    "setor": "Atendimento ao Cliente",
+    "etapas": [
+      "Recepcionar o cliente com cortesia",
+      "Escutar atentamente as necessidades do cliente",
+      "Oferecer soluções adequadas",
+      "Registrar as informações do atendimento"
+    ],
+    "sf_symbol": "person.2"
+  },
+  {
+    "nome": "Troca de Lâmpadas",
+    "descricao": "Procedimento para troca de lâmpadas",
+    "responsavel": "Carlos Rodrigues",
+    "setor": "Manutenção",
+    "etapas": [
+      "Desligar a energia",
+      "Retirar a lâmpada antiga com cuidado",
+      "Instalar a nova lâmpada corretamente",
+      "Verificar se a lâmpada está funcionando",
+      "Ligar novamente a energia"
+    ],
+    "sf_symbol": "lightbulb"
+  },
+  {
+    "nome": "Preparo de Café",
+    "descricao": "Procedimento para preparo de café",
+    "responsavel": "Laura Mendes",
+    "setor": "Copa",
+    "etapas": [
+      "Verificar a quantidade de água no reservatório",
+      "Adicionar a quantidade adequada de café em pó",
+      "Ligar a máquina de café",
+      "Aguardar a preparação",
+      "Servir o café em xícaras limpas"
+    ],
+    "sf_symbol": "cup.and.saucer.fill"
+  },
+  {
+    "nome": "Cadastro de Clientes",
+    "descricao": "Procedimento para cadastro de clientes",
+    "responsavel": "Pedro Almeida",
+    "setor": "Vendas",
+    "etapas": [
+      "Coletar os dados pessoais do cliente",
+      "Registrar as informações no sistema",
+      "Validar os dados fornecidos",
+      "Gerar um número de cadastro"
+    ],
+    "sf_symbol": "person.badge.plus"
+  },
+  {
+    "nome": "Controle de Estoque",
+    "descricao": "Procedimento para controle de estoque",
+    "responsavel": "Mariana Oliveira",
+    "setor": "Logística",
+    "etapas": [
+      "Realizar inventário dos produtos em estoque",
+      "Atualizar o sistema com as quantidades disponíveis",
+      "Registrar as entradas e saídas de produtos",
+      "Verificar a validade dos produtos",
+      "Organizar o estoque de forma adequada"
+    ],
+    "sf_symbol": "cube.box"
+  },
+  {
+    "nome": "Seleção de Fornecedores",
+    "descricao": "Procedimento para seleção de fornecedores",
+    "responsavel": "Lucas Santos",
+    "setor": "Compras",
+    "etapas": [
+      "Definir critérios de seleção de fornecedores",
+      "Pesquisar e avaliar os fornecedores disponíveis",
+      "Solicitar cotações de preços e condições",
+      "Analisar as propostas recebidas",
+      "Selecionar o fornecedor mais adequado",
+      "Registrar o fornecedor escolhido no sistema"
+    ],
+    "sf_symbol": "bag"
+  },
+  {
+    "nome": "Controle de Qualidade",
+    "descricao": "Procedimento para controle de qualidade",
+    "responsavel": "Fernanda Costa",
+    "setor": "Qualidade",
+    "etapas": [
+      "Definir os padrões de qualidade a serem seguidos",
+      "Realizar inspeções e testes de qualidade",
+      "Registrar os resultados das análises",
+      "Analisar e avaliar os resultados obtidos",
+      "Tomar ações corretivas quando necessário"
+    ],
+    "sf_symbol": "checkmark.seal"
+  },
+  {
+    "nome": "Treinamento de Funcionários",
+    "descricao": "Procedimento para treinamento de funcionários",
+    "responsavel": "Ricardo Alves",
+    "setor": "Recursos Humanos",
+    "etapas": [
+      "Identificar as necessidades de treinamento",
+      "Elaborar um plano de treinamento",
+      "Agendar as sessões de treinamento",
+      "Realizar as atividades de treinamento",
+      "Avaliar a eficácia do treinamento"
+    ],
+    "sf_symbol": "person.3"
+  }
+]
